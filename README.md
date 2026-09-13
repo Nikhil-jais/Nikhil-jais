@@ -1,4 +1,3 @@
-file:///C:/Users/DELL/Downloads/pixel-jeff-matrix-s.gif
   # 👋 Hi, I'm Nikhil Jaiswal
 
 ### 💻 Full Stack Developer | 🚀 Tech Enthusiast | 🤖 AI Explorer
