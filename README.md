@@ -99,9 +99,9 @@ Building Real-World Projects 🚀
 
 ## 📊 My GitHub
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-jais\&show_icons=true\&theme=tokyonight)
+![Nikhil's GitHub stats](https://nikhil-jais.github.io/India-Emergency-Directory/)
+[Stats](https://nikhil-jais.github.io/Road-Rush-Infinite-/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-jais\&layout=compact\&theme=tokyonight)
 
 ---
 
